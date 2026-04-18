@@ -1,0 +1,6 @@
+{
+  "name": "Neon Serpent",
+  "description": "A dark neon React web app combining a Music Player with 3 AI-generated placeholder tracks and a fully playable Snake game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
